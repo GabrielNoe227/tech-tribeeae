@@ -1,0 +1,28 @@
+{
+  "name": "tech-tribeeae",
+  "description": "tech tribeeae",
+  "version": "0.0.2",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://github.com/GabrielNoe227",
+  "repository": {
+    "url": "https://github.com/GabrielNoe227/tech-tribeeae"
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "tea",
+    "project",
+    "oss",
+    "tech",
+    "tribeeae"
+  ],
+  "author": "GabrielNoe227",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.3.3"
+  }
+}
